@@ -1,0 +1,26 @@
+{
+  "name": "derby-el-list",
+  "version": "0.1.0",
+  "description": "Derby (or any other frontend framework which works similarly, e.g. React) for maintaining lists of DOM elements",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "author": "cjblomqvist <carl@cjblomqvist.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BBWeb/derby-el-list.git"
+  },
+  "keywords": [
+    "derby",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/BBWeb/derby-el-list/issues"
+  },
+  "homepage": "https://github.com/BBWeb/derby-el-list",
+  "readmeFilename": "README.md"
+}
