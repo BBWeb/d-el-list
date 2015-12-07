@@ -6,7 +6,9 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+      "lodash": "*"
+    },
   "devDependencies": {},
   "author": "cjblomqvist <carl@cjblomqvist.com>",
   "license": "MIT",
