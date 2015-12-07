@@ -1,6 +1,6 @@
 {
   "name": "derby-el-list",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Derby (or any other frontend framework which works similarly, e.g. React) for maintaining lists of DOM elements",
   "main": "lib/index.js",
   "scripts": {
